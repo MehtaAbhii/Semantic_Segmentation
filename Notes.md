@@ -8,6 +8,9 @@
 5. Commit.
 6. Push the changes.
 
+-**Link to cheat sheet:**
+[Click here](https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/publicFiles/git-cheat-sheet-education.pdf)
+
 ## GIT Commands:
 
 - **To add user info:**
@@ -125,3 +128,4 @@ Important link:
 - For a line at the end use "---" or "***"
 
 ---
+## Python Notes
