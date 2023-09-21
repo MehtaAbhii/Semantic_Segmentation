@@ -128,4 +128,5 @@ Important link:
 - For a line at the end use "---" or "***"
 
 ---
-## Python Notes
+## Course notes
+
